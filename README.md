@@ -1,4 +1,4 @@
-# 🏧 Banking
+# 🏧 Offline Banking PT-BR
 <p1 align= center> This is a simple project that login in to the offline bank account after registration and has an administrator option! </p1>
 
 # 🛠 Functions
