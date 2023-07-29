@@ -3,9 +3,9 @@
 
 # 🛠 Functions
 
-`1 - Login` -> Login with your registry password and your number account thats is generated system. After this has a two options thats is Transfer money and Deposit money.
-`2 - Cadastro` -> Register your password and will generate number account for new user.
-`3 - Gerente` -> This function is admin option, thats verify all accounts and your respective password, verify all balance and zeroes all accounts.
+`1 - Login` -> Login with your registry password and your number account thats is generated system. After this has a two options thats is Transfer money and Deposit money. </br>
+`2 - Cadastro` -> Register your password and will generate number account for new user.</br>
+`3 - Gerente` -> This function is admin option, thats verify all accounts and your respective password, verify all balance and zeroes all accounts.</br>
 
 
 If you want login in admin option, the username is `admin` and password is `adminadmin`.
